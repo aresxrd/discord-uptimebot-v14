@@ -1,0 +1,30 @@
+{
+  "name": "aresxrd-uptime-bot",
+  "version": "1.0.0",
+  "description": "StarDev-V14-Uptime-Bot",
+  "main": "aresxrd.js",
+  "scripts": {
+    "start": "node aresxrd.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.5.0",
+    "discord-api-types": "^0.37.33",
+    "discord.js": "^14.7.1",
+    "moment": "^2.29.4",
+    "os-utils": "^0.0.14",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "croxydb": "^0.0.7",
+    "uprobot.js": "^0.0.2",
+    "express": "^4.18.2",
+    "os": "^0.1.2",
+    "@discordjs/voice": "^0.14.0",
+    "http-monitor": "^0.3.5",
+    "@top-gg/sdk": "^3.1.3",
+    "dblapi.js": "^2.4.1"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT"
+}
